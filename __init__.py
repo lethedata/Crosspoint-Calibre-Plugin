@@ -23,7 +23,7 @@ MARKER_DIR = '.crosspoint'
 # Where books are written on the device, and the file-naming template.
 # {authors} renders in display order (e.g. "Matt Parker"); {author_sort} would
 # give "Parker, Matt", which is not what we want.
-BOOKS_DIR = 'Books'
+BOOKS_DIR = 'books'
 NAME_TEMPLATE = '{title} - {authors}'
 
 
